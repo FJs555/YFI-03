@@ -1,22 +1,9 @@
 """
+The Python code that represents the structure and system control of the YFI-03
+
 """
 
-#imports
-from time import *
-from random import *
-from tkinter import *
-from tkinter.simpledialog import *
-from tkinter.dnd import *
-from tkinter.commondialog import *
-from tkinter.dialog import *
-from tkinter.messagebox import *
-from tkinter.scrolledtext import *
-from tkinter.filedialog import *
-from tkinter.constants import *
-from string import *
-import sys
-sys.path
 
-from Fighter import *
-from test import *
+
+# Sensor suite
 
