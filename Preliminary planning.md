@@ -1,6 +1,6 @@
 # Intital plans and project structure for the YFI-03 Purik prototype.
 
-## Primary focus: sensor suite
+### Primary focus: sensor suite
 
 1. Sensor suite (EOMSS)
 	- Design the structure of EOMSS
