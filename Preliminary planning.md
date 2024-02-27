@@ -10,3 +10,5 @@
 2. Land vehicle testing _as a seperate system_
 	- Mount on Traxxas Telluride 4x4 electric RC platform
 	- Test lateral and angular range, data transmission
+	- Test rough-and-tumble connection with Telluride platform
+	
